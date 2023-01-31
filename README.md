@@ -1,10 +1,14 @@
 
 <h1 align="center">Hi 👋, I'm Siddharth Kumawat</h1>
 <h3 align="center">A passionate  programmer/developer from India.</h3>
-<img align="right" alt="coding" width="400" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif">> 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav8925&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav8925" /> </p>
+<img align="right" alt="coding" width="400" src="[https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif"](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fswlh%2Fwhat-is-programming-d5aa8fb0f280&psig=AOvVaw2L7uMZie6VF0Ly4-K2t020&ust=1675241849691000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCICH6a-48fwCFQAAAAAdAAAAABAD)>> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SidCode23
+&label=Profile%20views&color=0e75b6&style=flat" alt="SidCode23
+" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhinav8925" alt="abhinav8925" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SidCode23
+" alt="SidCode23
+" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
